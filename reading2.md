@@ -1,4 +1,4 @@
-# Reading notes
+# Mj's Reading notes
 ## Reading 2
 
 WikiHow - How to Build a PC: This is a longer article, so it’s OK to skim this, especially parts of the process you’re already familiar with.
@@ -12,3 +12,6 @@ Videos
 Video - YouTube Robeytech - How to Build a PC
 Articles
 Infographic - pcbuildadvisor.com - How to build a computer
+
+
+## Things I want to know more about - 
