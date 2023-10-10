@@ -11,7 +11,7 @@ The Complete Beginner’s Guide to Ubuntu
 4. How do I install software from the command line? 
 
 I got information from my notes from these sites 
-[The Complete Beginner's Guide to Ubuntu](https://web.archive.org/web/20220312030901/https://www.lifewire.com/beginners-guide-to-ubuntu-2205722)
-[The Story of Linux](https://www.youtube.com/watch?v=5ocq6_3-nEw)
+- [The Complete Beginner's Guide to Ubuntu](https://web.archive.org/web/20220312030901/https://www.lifewire.com/beginners-guide-to-ubuntu-2205722)
+- [The Story of Linux](https://www.youtube.com/watch?v=5ocq6_3-nEw)
 
 ## Things I want to know more about 
