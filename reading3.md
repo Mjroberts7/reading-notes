@@ -20,3 +20,4 @@ I got information for these notes from this site https://www.learncomputerscienc
 - What happens when I turn on the computer?
 - Videos
 - Prowler Boot Sector Virus
+## Things I want to know more about
