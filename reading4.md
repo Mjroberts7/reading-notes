@@ -15,3 +15,5 @@ I got information from my notes from these sites
 - [The Story of Linux](https://www.youtube.com/watch?v=5ocq6_3-nEw)
 
 ## Things I want to know more about 
+Why linux is much preffered for software and technology experts. 
+If Linux is less protected than other operating systems. 
