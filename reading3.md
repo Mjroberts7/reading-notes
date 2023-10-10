@@ -9,7 +9,7 @@ Learning about the BIOS is important for any technology expert as it is from whe
 1. What is the BIOS? BIOS stands for the Basic Input Output System and is the most basic operating system of the computer. It is the firmware on the motherboard where you can build how the hardware is ran.
 2. Use analogies from your previous background to explain what happens during the booting process? during the booting process the hardware is powering on with the electricity the PSU is supplying. When they are powering on switches are turning on and off. Firmware that is already installed on the hardware is being turned on signaling to the customer that it is starting up. 
 3. What is the “Power On Self Test”? The POST is the initial test that the BIOS does to make sure all the hardware components are installed and working. 
-4. What is the CMOS? The CMOS is the configuring screen for BIOS settings. It will enable/disable components and display settings such as enabling CPU or GPU. 
+4. What is the CMOS? The CMOS is the Complimentary-Metal-Oxide-Semiconductor for BIOS settings. It will enable/disable components and display settings such as date and time. 
 5. What is the CMOS battery?
 
 I got information for these notes from this site https://www.learncomputerscienceonline.com/bios/
