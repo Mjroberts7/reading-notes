@@ -14,9 +14,9 @@ Learning about the BIOS is important for any technology expert as it is from whe
 
 I got information for these notes from this site https://www.learncomputerscienceonline.com/bios/
 
-Additional Resources
-Articles
-Future Learn
-What happens when I turn on the computer?
-Videos
-Prowler Boot Sector Virus
+- Additional Resources
+- Articles
+- Future Learn
+- What happens when I turn on the computer?
+- Videos
+- Prowler Boot Sector Virus
