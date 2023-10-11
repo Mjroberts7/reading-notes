@@ -15,5 +15,5 @@ Linux command line for beginner: Read parts 1-3. The rest is a how-to guide; ski
 
 I got information for my notes from this site/sites
 - [Command-line-for-beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
-
+- [Google-Translator](https://www.google.com/search?q=google+translate+english+to+spanish&rlz=1C1CHBF_enUS970US970&oq=google+trans&gs_lcrp=EgZjaHJvbWUqDwgCEAAYFBiHAhixAxiABDIGCAAQRRg5Mg8IARAAGEMYgwEYsQMYigUyDwgCEAAYFBiHAhixAxiABDINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDIHCAUQABiABDINCAYQABiDARixAxiKBTINCAcQABiDARixAxiKBTIHCAgQABiABDIHCAkQABiABNIBCDUzNTFqMWo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
 ## Things I want to know more about 
