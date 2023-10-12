@@ -6,7 +6,7 @@
 Reading
 What is an ISO file? Only read sections 1.1 - 1.4 inclusively.
 
-1. What is an ISO File? 
+1. What is an ISO File? An ISO file is a single file that stores an image of a much larger program that would be difficult to transfer without being converted to ISO. 
 2. How do you write an ISO file to a CD, DVD, or removable media (like a thumb drive)?
 3. How do you create an ISO file?
 4. How do you mount an ISO file?
