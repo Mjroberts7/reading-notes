@@ -8,7 +8,7 @@ Below you will find some reading materials and videos that support today’s top
 Reading
 #### SSH Protocol
 
-1. What is the Secure Shell (SSH) Protocol?
+1. What is the Secure Shell (SSH) Protocol? SSH protocol is way to login to one computer from another through a command line interface. 
 2. What are the typical uses of the SSH protocol? establishing a secure command line connection between two computers and file transfers.  
 3. How does the SSH protocol work? Uses port 22 typically. A user connects to the SSH Server. The server sends a key that the user uses and sets up how they want the port ran. Then the user logs into the system. 
 4. How is the data kept safe when transmitted between the SSH client and server? Very strong Authentication with SSH keys establishes security. 
