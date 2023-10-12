@@ -19,3 +19,7 @@ Reading
 1. What is Windows Remote Desktop Connection?
 2. What is RDP?
 3. What is the RDP port number?
+
+I got information from these sites 
+- [SSH Protocol](https://www.ssh.com/academy/ssh/protocol)
+- [What is RDP? And how to use it](https://www.comparitech.com/net-admin/what-is-rdp/)
