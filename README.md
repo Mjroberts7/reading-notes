@@ -7,3 +7,4 @@ These are my reading notes
 - [reading4](reading4.md)
 - [reading5](reading5.md)
 - [reading6](reading6.md)
+- [reading7](reading7.md)
