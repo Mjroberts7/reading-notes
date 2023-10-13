@@ -5,6 +5,7 @@
 
 Reading
 What is an ISO file? Only read sections 1.1 - 1.4 inclusively.
+This is important because it shows how to load, import, and export ISO's which are important for test environments. 
 
 1. What is an ISO File? An ISO file is a single file that stores an image of a much larger program that would be difficult to transfer without being converted to ISO. 
 2. How do you write an ISO file to a CD, DVD, or removable media (like a thumb drive)? You write a file to a CD, etc by first downloading it and then either burning it to the external media or extracting and installing it. 
