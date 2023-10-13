@@ -15,6 +15,6 @@ Command Prompt: What it is and how to use it
 5. What is Windows Terminal?
 
 I got information for my notes from this site/sites
--[Command Prompt: What is it and how to use it](https://www.lifewire.com/command-prompt-2625840)
+- [Command Prompt: What is it and how to use it](https://www.lifewire.com/command-prompt-2625840)
 
 ## Things I want to know more about 
