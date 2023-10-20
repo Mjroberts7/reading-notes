@@ -11,3 +11,4 @@ These are my reading notes
 - [reading8](102reading8.md)
 - [reading9](102reading9.md)
 ## OPs 201
+- [promp-engineering](promp-engineering.md)
