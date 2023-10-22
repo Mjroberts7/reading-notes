@@ -15,6 +15,7 @@ How to Use System Restore
   - You open the command prompt and type the command rstrui.exe and the prompts will come up that allow you to restore the system. 
 4. What options are available if System Restore did not fix the problem?
   - The next option available would be to restore the system to another restore point or to continue troubleshooting. You should always be able to factory reset a system or install another operating system on the device. 
+
 I got my information for these notes from the site 
 - [How-to-use-system-restore](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131)
 
