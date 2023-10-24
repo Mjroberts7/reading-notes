@@ -5,7 +5,7 @@
 ### Troubleshooting techniques
 
 Reading
-CompTIA A+ 220-902 Troubleshooting Methodology
+This is important because most often we will be troubleshooting software or system problems as tech professionals. That is probably the most utilized ability we will be performing is trying to fix problems, so we need to know the best way to fix those problems.
 
 1. What should you do if multiple issues are happening simultaneously during troubleshooting?
 - Document all of the issues to understand the full scope of the problem. Identify what is going wrong and try and identify why each issue is happening. Ask questions to the customer to figure out when this problem arose and how. 
