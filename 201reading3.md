@@ -17,6 +17,7 @@ Learning about what help desk support roles do is important because they are the
 - Security has become more important in recent years because of the increased availability or common application of technology, the average criminal has gotten smarter. Malware has increased which calls for more security to protect valuable data/assets. 
 4. How do writing skills and critical thinking skills play a vital role in the work of help desk technicians?
 - Writing skills help convey steps taken to resolve troubleshooting problems. Critical thinking skills help technicians think outside the box so that they are equipped to handle any problem that is thrown their way. 
+
 I got information for these notes from this site
 - [Introduction to help desk support roles](https://www.pearsonitcertification.com/articles/article.aspx?p=2260779&seqNum=5)
 ## Things I want to know more about 
