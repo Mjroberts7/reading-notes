@@ -15,10 +15,9 @@ Reading
 4. Think about any real-life scenarios from your cultural context where the use of command line tools could be beneficial. Describe one such scenario and explain how a specific command line tool would help address the situation.
 - 
 
-Optional
-A+ Certification Cheat Sheet
-
-See pages 6-7 for command line tools relevant to today’s topic
-UpGuard: What is an SMB Port + Ports 445 and 139 Explained
+I got information for these notes from these sites 
+- [Microsoft Command Line Tools](https://www.professormesser.com/professor-messer-archives/220-1002/microsoft-command-line-tools/)
+- [A+ Certification Cheat Sheet](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://gcit.enschool.org/ourpages/auto/2017/8/2/56105037/220%20901%20Cheat%20Sheet%202017.pdf)
+- [UpGuard: What is an SMB Port + Ports 445 and 139 Explained](https://www.upguard.com/blog/smb-port)
 
 ## Things I want to know more about 
