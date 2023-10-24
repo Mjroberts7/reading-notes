@@ -15,3 +15,22 @@ These are my reading notes
 - [System-Restore](201reading1.md)
 - [Dev-Tools-Bash](201reading2.md)
 - [Help-Desk-Support-Roles](201reading3.md)
+- [Troubleshooting Techniques](201reading4.md)
+- [Windows Command Line Tools](201reading5.md)
+- [Windows Security Center](201reading6.md)
+- [OS Upgrade and Remote Access](201reading7.md)
+- [reading1](201reading8.md)
+- [reading1](201reading9.md)
+- [reading1](201reading10.md)
+- [reading1](201reading11.md)
+- [reading1](201reading12.md)
+- [reading1](201reading13.md) 
+- [reading1](201reading14.md) 
+
+
+
+
+
+
+
+## OPs 30
