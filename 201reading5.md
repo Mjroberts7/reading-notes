@@ -7,7 +7,7 @@ Reading
 
 
 1. How can you list the files in the current directory using the command prompt?
-- 
+- ls will list the files in a directory when usings a linux computer. Command Prompt however uses the command dir to list all of the files or folders within the current directory. 
 2. How might the “sfc” command and the “gpupdate” command help in troubleshooting on Windows?
 - 
 3. What advantages does the “robocopy” command offer over the “xcopy” command, and why is it useful for file transfers in certain situations?
