@@ -26,11 +26,4 @@ These are my reading notes
 - [Virtualizing a Router with pfSense](201reading12.md)
 - [Cloud Virtualization with AWS](201reading13.md) 
 - [Malware Remediation Tools and Techniques](201reading14.md) 
-
-
-
-
-
-
-
-## OPs 30
+## OPs 301
