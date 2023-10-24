@@ -19,13 +19,13 @@ These are my reading notes
 - [Windows Command Line Tools](201reading5.md)
 - [Windows Security Center](201reading6.md)
 - [OS Upgrade and Remote Access](201reading7.md)
-- [reading1](201reading8.md)
-- [reading1](201reading9.md)
-- [reading1](201reading10.md)
-- [reading1](201reading11.md)
-- [reading1](201reading12.md)
-- [reading1](201reading13.md) 
-- [reading1](201reading14.md) 
+- [Readings: System Log Analysis, Registry, Control Panel](201reading8.md)
+- [Readings: Workstation Deployment SOP](201reading9.md)
+- [Imaging, Backup, and Recovery](201reading10.md)
+- [Data Restoration, Startup Repair, and Secure Disposal](201reading11.md)
+- [Virtualizing a Router with pfSense](201reading12.md)
+- [Cloud Virtualization with AWS](201reading13.md) 
+- [Malware Remediation Tools and Techniques](201reading14.md) 
 
 
 
