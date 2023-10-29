@@ -3,7 +3,7 @@
 Windows Security Center
 
 Readings
-
+This is important because we will be using this to keep updates current and for basic prevention. 
 
 1. What are the five main sections included in the Windows Defender Security Center, and what functionalities do they offer?
     - a. Virus and threat protection - covers exactly what it says. Antivirus/Antimalware. 
