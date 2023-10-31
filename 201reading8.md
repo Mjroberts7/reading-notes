@@ -6,7 +6,7 @@ It is important to know what the windows registry is because there is important 
 1. What is the Windows Registry, and what does it store?
 - The windows registry is a folder like container that contains settings such as keys and values that configure the machine. 
 2. What are the two types of registry settings stored for each Windows user account?
--The two types of registry settings stored are keys and values. 
+- The two types of registry settings stored are keys and values. 
 3. What are “registry hacks” and why might someone want to use them?
 - If you want settings that are normally only on professional editions you can hack it and edit the settings. 
 4. What are some common tasks you can perform by editing the Windows Registry?
