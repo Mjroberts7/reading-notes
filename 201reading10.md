@@ -17,3 +17,5 @@ BDR is very important to have for in case situations. Without BDR system recover
 
 I got information for my notes from these sites
 - [What is Backup and Disaster Recovery and Why Do You Need It?](https://www.ninjaone.com/blog/what-is-backup-and-disaster-recovery-and-why-do-you-need-it/)
+
+## Things I want to know more about 
