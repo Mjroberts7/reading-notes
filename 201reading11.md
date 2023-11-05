@@ -18,3 +18,5 @@ Knowing the difference between SSD and HDD can help you in troubleshooting a fau
 I found info for my notes from these sites
 - [SolarwindsMSP: SSD Data Recovery Best Practices](https://www.n-able.com/blog/ssd-data-recovery-best-practices)
 - [How to Erase a Hard Drive Using DBAN](https://www.lifewire.com/how-to-erase-a-hard-drive-using-dban-2619148)
+
+## Things I want to know more about 
