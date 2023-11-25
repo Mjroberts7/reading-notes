@@ -14,11 +14,11 @@ learning about OSI and wireshark will help me gain experience with tools and con
 - The Application layer is the final layer and has four main functions. It allows the user to log on to a remote host. Allows file access and management. Provide email service. As well as provides database sources with access to global information.  
 3. Distinguish which layers are the “hardware layers”, and which layers are the “software layers."  What does that even mean?  The first four layers are the hardware layers (Physical, DLL, Network, and Transport). The last three layers are the software layers (Session, Presentation, and Application). The difference is basically saying the data in each of these sections is primarily manipulated through whichever avenue they belong in. As in the software layers are presented through the software, and the data is being manipulated during the hardware layers. 
 4. How can the OSI model be used in troubleshooting? Understanding the model can help a network expert troubleshoot where exactly in the step the problem is occuring determining if it is a hardware component failure or faulty software configuration. 
+---
 
-
-1. What is Wireshark? 
-2. What is a packet?
-3. What 3 high-level things does Wireshark accomplish? How could these be used for nefarious purposes? For benevolent purposes?
+1. What is Wireshark? Wireshark is an important networking tool used by network analysts to capture information shared on the network. 
+2. What is a packet? A packet is a certain amount of data that is transmitted on a network stream at a certain time.  
+3. What 3 high-level things does Wireshark accomplish? How could these be used for nefarious purposes? For benevolent purposes? Wireshark captures packets, filters them, and then provides visualization of the data to the user. If someone is on a network that they shouldnt be, then they could use wireshark to capture all of the information that they shouldnt have access to. Likewise If someone is doing some bad stuff on the network then an official such as the CIA could find out how to get on to the network then capture the bad stuff the user is doing to have as evidence of wrongdoing.  
 
 i got my information from these sources 
 - [Layers of OSI Model](https://www.geeksforgeeks.org/open-systems-interconnection-model-osi/)
