@@ -9,14 +9,14 @@ Understanding ports is a way to understand how your network works.
 4. What is the difference between TCP and UDP? TCP stands for Transmission Control Protocol and confirms that each packet transmission is successful. UDP stands for User datagram protocol and just sends packets without confirming anything.
 ---
 1. List and describe the ports used for the following:
-- Telnet - 
-- SSH
-- DNS
-- SMTP
-- HTTP
-- HTTPS
-- RDP
-- Ping
+- Telnet - 23 - connects a remote device to a console screen and view info on the single terminal screen. 
+- SSH - 22 - Secure shell connects to and sends information with encryption. similar to Telnet but more secure.
+- DNS - 53 - The Domain name system searches and returns the name we type in to the IP address assosciated with it.
+- SMTP - 25 - Simple mail transfer protocol is a common port for email traffic between devices.
+- HTTP - 80 - Web Server communication.
+- HTTPS - 443 - Encrypted Web Server communicaiton.
+- RDP - 3389 - Remote Desktop Protocol provides remote access view of a remote desktop.
+- Ping - Ping does not use a specified port. 
 
 ### I got my information from these sites 
 - [What is a Port Scanner and How Does it Work?](https://www.varonis.com/blog/port-scanning-techniques)
