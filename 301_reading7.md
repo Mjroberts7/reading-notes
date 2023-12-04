@@ -15,3 +15,5 @@ I got information from these sites
 - [Network Devices](https://www.professormesser.com/network-plus/n10-008/n10-008-video/networking-devices-n10-008/)
 - [Network Connectors](https://www.professormesser.com/network-plus/n10-008/n10-008-video/network-connectors-2/)
 - [Ethernet Standards](https://www.professormesser.com/network-plus/n10-008/n10-008-video/ethernet-standards-n10-008/)
+
+## things I want to know more about
