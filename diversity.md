@@ -13,3 +13,5 @@ Ask the question: [Why diversity matters to your tech company](https://www.usato
 1. When are diversity efforts most successful? They bring different ways of seeing a problem and more efficient ways of solving them.
 2. Why do diverse companies perform better? Because some research points to diversity being a performance enhancer among companies. It is not a proven anecdote but it is a topic that alot of the research is focused on. 
 3. Give an example of how a diverse company can serve a diverse user base or vise-versa. A diverse company can serve a diverse user base by giving the user base diverse products. Such as people that are left handed being thought about when making products. 
+
+## Things I want to know more about
