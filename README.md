@@ -1,6 +1,7 @@
-# Reading-notes
-These are my reading notes
-## OPs 102
+# Reading Notes
+These are my reading notes for the assigned readings from the Cyber/Ops codefellows classes from 102-401.
+## OPs 102 - Intro to Computer Operations
+This is where we performed our basic inintialization of our cyber range PC
 - [reading1](102reading1.md) 
 - [reading2](102reading2.md)
 - [reading3](102reading3.md)
@@ -10,7 +11,9 @@ These are my reading notes
 - [reading7](102reading7.md)
 - [reading8](102reading8.md)
 - [reading9](102reading9.md)
-## OPs 201
+--- 
+## OPs 201 - Foundations of Computer Operations
+At this time we started learning alot more about software tools, utilizing cli's, and getting used to testing/secure environments to learn the ins and outs of our computers. 
 - [promp-engineering](promp-engineering.md)
 - [System-Restore](201reading1.md)
 - [Dev-Tools-Bash](201reading2.md)
@@ -27,7 +30,9 @@ These are my reading notes
 - [Cloud Virtualization with AWS](201reading13.md) 
 - [Malware Remediation Tools and Techniques](201reading14.md) 
 - [Psychological Safety](201reading14_2.md) 
-## OPs 301
+---
+## OPs 301 - Networking and Systems Administration
+Diving into network deployment and configuration we utilized a range of applications to add control in our environments. Understanding network analysis and configuration became key in administering network traffic.  
 - [Network Traffic Analysis with Wireshark](301_reading1.md)
 - [Network scanning with NMAP](301_reading2.md)
 - [Network Segmentation](301_reading3.md)
@@ -42,3 +47,5 @@ These are my reading notes
 - [Domain Controller](301_reading12.md)
 - [Active Directory](301_reading13.md)
 - [Group Policy](301_reading14.md)
+---
+## OPs 401 - Cybersecurity Engineering 
