@@ -49,3 +49,4 @@ Diving into network deployment and configuration we utilized a range of applicat
 - [Group Policy](301_reading14.md)
 ---
 ## OPs 401 - Cybersecurity Engineering 
+- [Prep: The Growth Mindset](401_prepMindset.md)
