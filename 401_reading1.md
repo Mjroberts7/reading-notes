@@ -13,3 +13,5 @@ I got my info for my notes from these sites.
 ## Videos
 - [Professor Messer's SY0-601 Security+ Study Group - August 2023](https://www.youtube.com/watch?v=Wo97QXuh58Y&t=1822s)
 - [The Ultimate Guide to SOC 2 Compliance](https://www.vendr.com/blog/soc-2-compliance-guide)
+
+## Things I want to know more about
