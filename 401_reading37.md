@@ -1,18 +1,16 @@
 # Mj's Reading Notes 
 
-## Reading notes 37
+## Reading 37
 
-
-1. What is the main goal of Threat Hunting and how is it different from traditional threat monitoring? Threat hunting is actively searching for indicators of compromise to detect any breaches. Threat monitoring is no proactively searching your systems but monitoring and keeping an eye on your systems so you will be aware if a breach or attempt is made. 
-2. What are the four types of YARA rules and what does each one of them use to identify and classify malicious software? 
-    - string-based rules - use strings of text as values to detect malware.
-    - file metadata-based rules - use metadata about files being analyzed to identify malware. 
-    - hash-based rules - use cryptographic hashes to identify malware.
-    - network-based rules - use network traffic data to identify malware.
-3. How are YARA rules similar to how Anti-Virus programs detect malicious software? They use pre-determined criteria, then use search the data and anything that matches the criteria is flagged. 
+1. What are the three common stages of the Penetration Testing process and what tasks are performed at each one? 
+    - Explore - tester attempts to learn about the system being tested.
+    - Attack - tester attempts to exploit the known or suspected vulnerabilities
+    - Report - tester reports back the results of their testing
+2. Explain a “main-in-the-middle proxy” in non-technical terms. 
+    - sits inbetween the browser and the website to perform specific tasks and filter traffic 
+3. What are the 2 spiders available for use in ZAP? The AJAX spider and the traditional spider
+4. What situations are they best suited for? Traditional is fast and not as effective all the time. while the AJAX is opposite. 
 
 Documentation
-- [What Are YARA Rules?](https://archerint.com/what-are-yara-rules/)
-- [Threat Hunting using YARA](https://www.geeksforgeeks.org/threat-hunting-using-yara/)
-- [YARA Rules GitHub Project](https://github.com/Yara-Rules/rules)
-    - This project covers the need of a group of IT Security Researchers to have a single repository where different Yara signatures are compiled, classified and kept as up to date as possible, and began as an open source community for collecting Yara rules.
+- [Getting Started with Zed Attack Proxy](https://www.zaproxy.org/getting-started/)
+- [Python Tools for Cyber](https://hackersonlineclub.com/python-tools/)
